@@ -221,7 +221,8 @@ body {
 /*
     Styles pour les écrans de moins de 1200px de large :
 */
-/*
+
+@media screen and (max-width: 1200px) {
 
     .content-focus {
         display:block;
@@ -248,8 +249,8 @@ body {
     .card {
         width:auto;
     }
+}
 
-*/
 
 /*
     Styles pour les écrans de moins de 900px de large :

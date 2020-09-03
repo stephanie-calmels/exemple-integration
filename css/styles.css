@@ -255,7 +255,9 @@ body {
 /*
     Styles pour les écrans de moins de 900px de large :
 */
-/*
+
+@media screen and (max-width: 900px) {
+
     .header {
         position:static;
         width:auto;
@@ -292,5 +294,4 @@ body {
     .nav-item-link {
         margin-bottom: 0;
     }
-
-*/
+}

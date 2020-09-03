@@ -122,6 +122,17 @@ body {
     width: 100%;
 }
 
+.picture-desc {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 1rem;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+
+}
+
 .content-quote {
     border-top: 3px solid #ccc;
     margin-top: 2rem;

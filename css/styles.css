@@ -55,6 +55,16 @@ body {
 
 .nav-item {
     font-size: 1.2rem;
+    background-color: #ccc;
+    border-radius: 5px;
+    padding: 1rem;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+
+}
+
+.active-page {
+    border-bottom: 3px solid #f39c12;
 }
 
 .page {

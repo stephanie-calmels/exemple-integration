@@ -97,6 +97,7 @@ body {
     max-width: 450px;
     margin-left: auto;
     font-weight: bold;
+    margin-bottom: 1rem;
 }
 
 .content-title--main {
@@ -263,6 +264,7 @@ body {
         width:auto;
         float:none;
         margin-left:0;
+        height: 21vh;
     }
 
     .container {
@@ -284,6 +286,8 @@ body {
 
     .nav-links {
         margin-top:0;
+        display: flex;
+        justify-content: space-around;
     }
 
     .nav-item {

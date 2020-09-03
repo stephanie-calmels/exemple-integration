@@ -124,6 +124,7 @@ body {
 .picture {
     width: 100%;
     transition-duration: 500ms;
+    max-height: 300px;
 }
 
 .picture:hover {

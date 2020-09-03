@@ -84,11 +84,24 @@ body {
     width: 50%;
     font-size: 3em;
     margin-right: 2rem;
+    text-align: right;
 }
 
 .content-title {
     max-width: 450px;
     margin-left: auto;
+    font-weight: bold;
+}
+
+.content-title--main {
+    padding-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-top: 3px solid #f39c12;
+}
+
+.content-title--sub {
+    color: #ccc;
+    font-size: 2.5rem;
 }
 
 .content-picture {
